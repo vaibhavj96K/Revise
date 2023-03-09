@@ -1,0 +1,48 @@
+
+.first{
+    color: tomato;
+    padding: 4rem;
+    float: right;
+    opacity: 0.5;
+}
+.first:hover{
+    background-color: yellowgreen;
+    font-size: 25px;
+    transition: font-size 2s;
+}
+/* .second{
+    
+    padding: 4rem;
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: 50px;
+    color: blue;
+    float: right;
+}
+.third{
+ color: rgb(237, 102, 40);
+ padding: 4rem;
+ z-index: 2;
+}
+.fourth{
+    /* position: relative; */
+/* /
+*/ 
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+input[type=text]{
+    
+    float: right;
+    all:unset;
+    width: 50%;
+    padding: 15px;
+    font-size: 25px;
+    color: deeppink;
+    border-top: 2px dotted rgb(15, 16, 13);
+    
+}
